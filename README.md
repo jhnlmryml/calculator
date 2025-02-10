@@ -66,7 +66,7 @@ Ensure you have the following installed:
 
 - Enter numbers and select an operation (+, -, \*, /).
 - Click "=" to see the result.
-- Click "C" to clear the input.
+- Click "AC" to clear the input.
 
 ## Contributing
 
